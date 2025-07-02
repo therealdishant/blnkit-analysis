@@ -1,6 +1,3 @@
-# Save the README content into a markdown file
-
-readme_content = """
 # 📊 Blinkit Data Analysis Dashboard
 
 This project provides a detailed analysis of sales data from **Blinkit**, a quick-commerce grocery delivery platform. Built using **Microsoft Power BI**, the dashboard offers insights into product performance, outlet characteristics, and sales trends to support data-driven decision-making.
